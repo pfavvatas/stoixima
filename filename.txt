@@ -1,0 +1,28 @@
+[Neant Alioum - Cameroon - 4 - 10 - 0
+, Joshua Bondo - Botswana - 2 - 9 - 0
+, Bernard Camille -  - 2 - 4 - 0
+, Ibrahim Nour El Din -  - 1 - 3 - 0
+, Noureddine El Jaafari -  - 3 - 9 - 1
+, Youssef Essrayri - Tunisia - 1 - 4 - 1
+, Bakary Gassama - Gambia - 2 - 6 - 0
+, Mustapha Ghorbal -  - 4 - 16 - 1
+, Victor Miguel de Freitas Gomes -  - 2 - 10 - 0
+, Ghead Grisha -  - 2 - 7 - 1
+, Haythem Guirat -  - 1 - 2 - 0
+, Louis Hakizimana -  - 2 - 6 - 0
+, Ahmad Heeralall -  - 1 - 6 - 0
+, Redouane Jiyed - Morocco - 3 - 12 - 0
+, Mahamadou Keita - Guinea - 1 - 2 - 0
+, Helder Martins de Carvalho -  - 2 - 10 - 1
+, Pacifique Ndabihawenimana -  - 1 - 3 - 0
+, Jean-Jacques Ndala Ngambo -  - 2 - 7 - 0
+, Maguette Ndiaye -  - 1 - 3 - 0
+, Amin Mohamed Omar -  - 1 - 3 - 0
+, Eric Arnaud Otogo-Castane -  - 3 - 8 - 0
+, Andofetra Rakotojaona -  - 1 - 3 - 0
+, Sadok Selmi -  - 2 - 11 - 0
+, Janny Sikazwe -  - 2 - 6 - 0
+, Issa Sy -  - 1 - 4 - 0
+, Peter Kamaku Waweru -  - 1 - 1 - 0
+, Bamlak Tessema Weyesa -  - 4 - 15 - 0
+]
